@@ -35,7 +35,7 @@ Thư mục: `bin/`
     - Gói các thư mục `data/` -> `data.0`, `img/` -> `img.0`, `audio/` -> `audio.0`, `js/` -> `js.0`.
     - Tích hợp bộ nạp ảo Virtual Runtime Loader (`rpg_protect_runtime.js`) cho phép game vẫn đọc được file và chạy bình thường mà không lộ bất kỳ file nào ra ngoài.
 
-### 3. App Giải Mã (`RPGMakerDecrypter.exe`)
+### 2. App Giải Mã (`RPGMakerDecrypter.exe`)
 - **Chọn thư mục game đã mã hóa**: Tự động quét và xác thực `Verify Folder Game` (kiểm tra các file `.0`).
 - **Chọn thư mục xuất**: Tự động tạo thư mục `[TênGame]_DecryptedSource`.
 - **Nhập Key Decrypt**: Hỗ trợ cả Key ngẫu nhiên và Mã đặc quyền của tác giả.
