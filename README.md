@@ -1,4 +1,4 @@
-# 🛡️ RPG Maker Game Protection & Decryption Suite v4.2.0-beta
+# 🛡️ RPG Maker Game Protection & Decryption Suite
 
 Bộ công cụ chuyên dụng bảo vệ mã nguồn, hình ảnh, âm thanh và dữ liệu game **RPG Maker (MZ, MV, VX Ace, XP, VX)** chống bung source code, decompile hoặc hack/mod.
 
@@ -7,8 +7,8 @@ Bộ công cụ chuyên dụng bảo vệ mã nguồn, hình ảnh, âm thanh v�
 ## 📦 File Thực Thi (.exe)
 
 Thư mục: `bin/`
-- **`RPGMakerEncryptor.exe`**: Ứng dụng mã hóa game RPG Maker (Version: `4.2.0-beta`).
-- **`RPGMakerDecrypter.exe`**: Ứng dụng giải mã và bung lại source code game (Version: `4.2.0-beta`).
+- **`RPGMakerEncryptor.exe`**: Ứng dụng mã hóa game RPG Maker.
+- **`RPGMakerDecrypter.exe`**: Ứng dụng giải mã và bung lại source code game.
 
 ---
 
