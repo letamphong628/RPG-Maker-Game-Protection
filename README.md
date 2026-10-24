@@ -58,6 +58,6 @@ Thư mục: `bin/`
 ### Để Giải Mã & Bung Source:
 1. Mở `RPGMakerDecrypter.exe`.
 2. Bấm **Chọn Thư Mục Game** (chọn thư mục game có chứa file `.0`).
-3. Nhập Key giải mã (hoặc nhập Mã đặc quyền tác giả).
+3. Nhập Key giải mã.
 4. Bấm **BẮT ĐẦU GIẢI MÃ & BUNG SOURCE**.
 5. Toàn bộ source code sẽ được bung ra thư mục xuất hoàn tất.
