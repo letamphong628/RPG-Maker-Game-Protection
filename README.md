@@ -38,7 +38,7 @@ Thư mục: `bin/`
 ### 2. App Giải Mã (`RPGMakerDecrypter.exe`)
 - **Chọn thư mục game đã mã hóa**: Tự động quét và xác thực `Verify Folder Game` (kiểm tra các file `.0`).
 - **Chọn thư mục xuất**: Tự động tạo thư mục `[TênGame]_DecryptedSource`.
-- **Nhập Key Decrypt**: Hỗ trợ cả Key ngẫu nhiên và Mã đặc quyền của tác giả.
+- **Nhập Key Decrypt**: Hỗ trợ cả Key ngẫu nhiên.
 - **Khôi phục hoàn toàn 100%**:
   - Bung toàn bộ các file `.0` trở về thư mục gốc `data/`, `img/`, `audio/`, `js/` nguyên vẹn 100%.
   - Tự động dọn dẹp các hook runtime trong `index.html`, khôi phục source code ban đầu.
