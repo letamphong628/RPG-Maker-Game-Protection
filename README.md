@@ -207,3 +207,26 @@ Thư mục: `bin/`
 - **Phân Tách Công Cụ & Khóa**: Tiện ích giải mã `RPGMakerDecrypter.exe` và các tệp văn bản chứa khóa (`*.txt`) chỉ phục vụ nội bộ nhà phát triển. **Không bao giờ đính kèm hai thành phần này vào bộ cài đặt (installer), file nén phát hành công khai hoặc kho lưu trữ Git công cộng.**
 - **Quản Lý Bằng Git**: Thêm mẫu `*.txt` và thư mục `_RPG_Original_Backup_*/` vào tệp `.gitignore` để tránh rủi ro sơ ý commit khóa bảo mật lên repository.
 - **Gia Cố Tầng Ứng Dụng**: Để đạt cấp độ bảo mật cao nhất cho sản phẩm thương mại, bạn nên kết hợp bộ công cụ này với giải pháp xáo trộn mã JavaScript (Obfuscator) cho các file plugin logic nghiệp vụ trước khi tiến hành đóng gói.
+---
+
+## ⚖️ Legal Disclaimer & Terms of Use
+
+### English
+
+> **IMPORTANT: PLEASE READ CAREFULLY BEFORE USING THIS SOFTWARE.**
+
+1. **Intended Use & Authorization**: This software suite (`RPGMakerEncryptor.exe` & `RPGMakerDecrypter.exe`) is designed exclusively for educational, research, and legitimate asset security purposes by authorized game creators and intellectual property owners. You may **only** encrypt and decrypt assets for which you hold legal ownership, explicit license, or verified written authorization from the copyright holder.
+2. **Prohibition of Malicious & Infringing Acts**: The author strictly prohibits the use of this suite for unauthorized reverse engineering, asset piracy, intellectual property theft, commercial cracking, or circumventing technological protection measures (TPM) on third-party games.
+3. **Loss of Cryptographic Keys & Data**: Decryption is mathematically bound to the matching cryptographic key generated during packaging. The developer **cannot** recover or reconstruct lost, overwritten, or misplaced keys. You are solely responsible for securely vaulting your project keys and maintaining independent, unencrypted offsite backups.
+4. **"AS IS" Warranty & Liability Limitation**: This software is provided on an **"AS IS"** and **"AS AVAILABLE"** basis, without warranty of any kind, express or implied. Under no circumstances shall the author, contributors, or distributors be held liable for any direct, indirect, incidental, special, exemplary, or consequential damages (including, but not limited to, data loss, project corruption, revenue loss, system downtime, or legal claims) arising out of the use, misuse, or inability to use this software suite.
+
+---
+
+### Tiếng Việt
+
+> **QUAN TRỌNG: VUI LÒNG ĐỌC KỸ TRƯỚC KHI SỬ DỤNG PHẦN MỀM NÀY.**
+
+1. **Mục Đích Sử Dụng & Phạm Vi Cho Phép**: Bộ công cụ này (`RPGMakerEncryptor.exe` & `RPGMakerDecrypter.exe`) được phát triển thuần túy cho mục đích nghiên cứu kỹ thuật, học thuật và bảo vệ tài nguyên hợp pháp dành cho các nhà phát triển game và chủ sở hữu quyền tác giả. Bạn **chỉ được phép** mã hóa và giải mã dữ liệu đối với những dự án do chính bạn sở hữu hoặc đã được chủ sở hữu bản quyền cấp phép bằng văn bản hợp pháp.
+2. **Nghiêm Cấm Hành Vi Xâm Phạm Bản Quyền**: Tác giả nghiêm cấm mọi hành vi sử dụng bộ phần mềm này để dịch ngược (reverse engineer), trích xuất tài nguyên trái phép (rip assets), bẻ khóa thương mại hoặc can thiệp vượt rào bảo vệ kỹ thuật đối với các tựa game thuộc quyền sở hữu của bên thứ ba mà không có sự cho phép.
+3. **Trách Nhiệm Quản Lý Khóa & Dữ Liệu**: Cơ chế giải mã gắn liền về mặt toán học với khóa bảo mật tương ứng được tạo ra trong quá trình đóng gói. Tác giả phần mềm **hoàn toàn không có khả năng** khôi phục dữ liệu nếu bạn làm mất, quên hoặc ghi đè file khóa. Bạn chịu trách nhiệm hoàn toàn đối với việc lưu trữ an toàn các tệp khóa và sao lưu mã nguồn gốc độc lập bên ngoài.
+4. **Miễn Trừ Trách Nhiệm Pháp Lý**: Phần mềm được cung cấp theo nguyên tắc **"NGUYÊN BẢN" (AS IS)** và không đi kèm bất kỳ cam kết hay bảo hành nào (dù rõ ràng hay ngụ ý). Trong mọi trường hợp, tác giả và các bên đóng góp sẽ **không chịu bất kỳ trách nhiệm pháp lý** nào đối với các tổn thất trực tiếp, gián tiếp, mất mát dữ liệu, gián đoạn công việc, tranh chấp bản quyền hoặc bất kỳ rủi ro phát sinh nào bắt nguồn từ việc sử dụng, lạm dụng hoặc không thể sử dụng bộ công cụ này.
