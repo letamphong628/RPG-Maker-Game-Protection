@@ -1,4 +1,4 @@
-# 🛡️ RPG Maker Asset Security & Pipeline Suite v4.3.0
+# 🛡️ RPG Maker Game Protection v4.3.0
 
 <img width="929" height="964" alt="Image" src="https://github.com/user-attachments/assets/7be6977a-0d3d-49a7-9492-c33a1b24ba8c" />
 
