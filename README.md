@@ -1,6 +1,8 @@
 # 🛡️ RPG Maker Asset Security & Pipeline Suite v4.2.3
 
-<img width="691" height="663" alt="Image" src="https://github.com/user-attachments/assets/25d830ff-f5a1-46df-8eab-90dcc80f8df3" />
+<img width="929" height="964" alt="Image" src="https://github.com/user-attachments/assets/7be6977a-0d3d-49a7-9492-c33a1b24ba8c" />
+
+<img width="934" height="902" alt="Image" src="https://github.com/user-attachments/assets/e1674ac5-c24b-4447-8bd7-f372ccc04eee" />
 
 A robust asset encryption and build pipeline designed for **RPG Maker (MZ, MV, VX Ace, XP, VX)** developers. Safeguard proprietary game logic, graphics, audio, and database assets against unauthorized extraction, reverse engineering, and tampering — powered by a **Non-Blocking 60.0 FPS Stealth Virtual Runtime** and **Smart LRU RAM Cache**.
 
