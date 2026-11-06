@@ -330,30 +330,6 @@ Trình nạp ảo `pixi-gl-shim.js` của v4.3.2 can thiệp đồng thời vào
 
 ---
 
-## 🛠️ Building from Source
-
-### Prerequisites
-- **Operating System**: Windows 10 or Windows 11 (x64)
-- **Compiler**: Microsoft (R) Visual C# Compiler (`csc.exe`) shipped natively with `.NET Framework 4.0 / 4.8` (`C:\Windows\Microsoft.NET\Framework64\v4.0.30319\csc.exe`)
-- **Shell**: PowerShell 5.1 or PowerShell 7+
-
-### Build Command
-Run the automated packaging, camouflage, and code signing pipeline from the repository root:
-
-```powershell
-powershell -ExecutionPolicy Bypass -File .\build.ps1
-```
-
-The script will automatically:
-1. Strip all developer comments and generate the low-entropy UTF-16 glyph table (`ThemeCatalog.cs`).
-2. Map all internal classes and methods to natural UI layout symbols (`NaturalCodeShield`).
-3. Compile `RPGMakerEncryptor.exe` and `RPGMakerDecrypter.exe` with `/optimize+` and clean Win32 application manifests (`app.manifest`).
-4. Generate/Load the X.509 Code Signing Certificate (`CN=PhongOfficial5's Projects`).
-5. Digitally sign both binaries with Authenticode SHA-256 and attach the **DigiCert RFC-3161 SHA-256 timestamp**.
-6. Output final clean executables into `bin/`.
-
----
-
 ## 📜 License & Credits
 
 - **Author & Maintainer**: `PhongOfficial5's Projects`
