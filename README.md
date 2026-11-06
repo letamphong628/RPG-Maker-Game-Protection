@@ -1,5 +1,5 @@
 # 🛡️ RPG Maker Game Protection Suite v4.3.2
-**Engineered, Signed & Maintained by: `PhongOfficial5's Projects`**
+**Engineered, Signed & Maintained by: `PhongOfficial5's Projects` Special thanks to Tunako for feedback and guidance**
 
 [![Release](https://img.shields.io/badge/Release-v4.3.2-brightgreen.svg?style=for-the-badge&logo=github)](https://github.com)
 [![Platform](https://img.shields.io/badge/Platform-Windows%2010%20%7C%2011-0078D6.svg?style=for-the-badge&logo=windows)](https://microsoft.com)
