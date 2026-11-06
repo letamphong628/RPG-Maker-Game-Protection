@@ -8,7 +8,6 @@
 [![KDF](https://img.shields.io/badge/KDF-PBKDF2--HMAC--SHA256%20(600k%20rounds)-informational.svg?style=for-the-badge&logo=shield)](https://owasp.org)
 [![Code Signing](https://img.shields.io/badge/Signed%20By-PhongOfficial5's%20Projects-blueviolet.svg?style=for-the-badge&logo=checkmarx)](https://digicert.com)
 [![Timestamp](https://img.shields.io/badge/RFC3161-DigiCert%20SHA--256-success.svg?style=for-the-badge&logo=digicert)](https://digicert.com)
-[![VirusTotal](https://img.shields.io/badge/VirusTotal%20%26%20Defender-100%25%20Clean-success.svg?style=for-the-badge&logo=virustotal)](https://virustotal.com)
 
 A robust asset encryption, smart multi-tier packaging, and anti-decompilation build pipeline engineered for **RPG Maker (MZ, MV, VX Ace, XP, VX)** developers. Safeguard proprietary game databases, scripts, artwork, audio, and cutscene video assets against unauthorized extraction, automated ripping, and tampering — powered by **Selective AES-256-CTR Tiered Cryptography (`0xB1` / `0xB2` / `0xB3`)**, an **In-Memory Custom Bytecode VM (`_vmExec`)**, **Adaptive GPU-Paced 60.0 FPS Streaming**, and a **96 MB Smart LRU + TTL RAM Cache with Active Media Guard**.
 
