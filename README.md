@@ -16,7 +16,7 @@ A robust asset encryption, smart multi-tier packaging, and anti-decompilation bu
 ## 📑 Table of Contents / Mục Lục
 
 - [⚖️ Legal Disclaimer & Terms of Use (Must Read)](#-legal-disclaimer--terms-of-use-must-read)
-- [🚀 What's New in v4.3.2 (Engine Modernization & Asset Hardening)](#-whats-new-in-v432-engine-modernization--asset-hardening)
+- [🚀 What's New in v4.3.3 (Engine Modernization & Asset Hardening)](#-whats-new-in-v432-engine-modernization--asset-hardening)
 - [🏗️ Architecture Overview](#️-architecture-overview)
 - [📦 Binaries & Digital Signature](#-binaries--digital-signature)
 - [🆚 Comparison Matrix: Why Default Encryption Fails](#-comparison-matrix-why-default-encryption-fails)
